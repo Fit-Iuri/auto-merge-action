@@ -1,6 +1,6 @@
 name: "Merge a pull request automatically"
 description: "GitHub Action to create pull request and merge automatically"
-author: yyoshiki41
+author: Fit-Iuri
 branding:
   icon: "git-merge"
   color: "green"
